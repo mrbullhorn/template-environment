@@ -1,8 +1,8 @@
-# Age Calculator
+# 
 
 #### By _**Hans Ellis**_
 
-#### _This a project to demonstrate my understanding of Class objects as well as my familiar with the webpack and node development environment. Also includes logic testing with Jest._
+#### __
 
 ## Technologies Used
 
@@ -16,23 +16,15 @@
 
 ## Description
 
-This work in progress is designed to allow a user to enter their age and have their age in "planet years" displayed. Planets included are Earth, Mercury, Venus, Mars, and Jupiter. Furthermore the user is presented with their life expectancy on a given planet in "planet years" based on an average human lifespan.
+
 
 ## Setup/Installation Requirements
 
-1. Clone the repository: '[https://github.com/mrbullhorn/age-calculator]'
-2. Navigate to the '[age-calculator]' directory on your computer
-3. Open with your favorite text editor 
-4. To start a development server and view the project in the browser:
-- Navigate to '[age-calculator]' in your command line
-- Run the command "npm install" to install dependencies
-- Optionally, run the command "npm run build" to bundle the files
-- Finally, run the command "npm run start" to start a development server
-5. To run tests, navigate to '[age-calculator]' in your terminal and run the command "npm run test"
+
 
 ## Known Bugs
 
-* _no known bugs at this time_
+* __
 
 ## Link to GH Pages:
 
@@ -63,5 +55,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**Describe Cart()**
+
 
